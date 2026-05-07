@@ -9,7 +9,7 @@ The app allows users to create, edit, delete, and manage notes easily with a mod
 
 *  Add new notes
 *  Delete notes
-*  Save data locally using SQLite
+*  Save data firebase
 *  Responsive and clean UI
 *  Fast and lightweight app
 
