@@ -19,7 +19,7 @@ The app allows users to create, edit, delete, and manage notes easily with a mod
 
 * Flutter
 * Dart
-* SQLite
+* firebase
 * Material Design
 
 ---
