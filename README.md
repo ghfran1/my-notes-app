@@ -27,6 +27,7 @@ The app allows users to create, edit, delete, and manage notes easily with a mod
 ##  Screenshots
 
 *Add your app screenshots here.*
+<img width="444" height="358" alt="image" src="https://github.com/user-attachments/assets/53f0b9c2-d9e4-4611-a431-d832c9a44ea5" />
 
 
 
