@@ -1,17 +1,78 @@
-# crud_task
+# 📝 Notes App
 
-A new Flutter project.
+A clean and simple Flutter Notes Application built using SQLite for local data storage.
+The app allows users to create, edit, delete, and manage notes easily with a modern and responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+*  Add new notes
+*  Delete notes
+*  Save data locally using SQLite
+*  Responsive and clean UI
+*  Fast and lightweight app
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+* Flutter
+* Dart
+* SQLite
+* Material Design
+
+---
+
+##  Screenshots
+
+*Add your app screenshots here.*
+
+
+
+---
+
+##  Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ghfran1/my-notes-app.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd my-notes-app
+```
+
+3. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+4. Run the app:
+
+```bash
+flutter run
+```
+
+---
+
+##  Project Structure
+
+```bash
+lib/
+│── models/
+│── services/
+│── screens/
+│── widgets/
+│── main.dart
+```
+
+---
+
+##  Author
+
+Developed by **Ghfran**
